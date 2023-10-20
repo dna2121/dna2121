@@ -6,9 +6,8 @@ Hi, i'm Denise. A flutter mobile developer from Indonesia and currently learning
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dna2121&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="dna2121" /></p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dna2121&theme=default&hide_border=false)<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dna2121&" alt="dna2121" /></p>
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dna2121&theme=default" /></p>
 
