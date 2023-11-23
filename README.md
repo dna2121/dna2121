@@ -7,7 +7,7 @@ Hey. I'm Denise from Indonesia. I have experience in developing android apps usi
 ##
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dna2121&" alt="dna2121" /></p>
+
 
 <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dna2121&theme=default" /></p>
 
