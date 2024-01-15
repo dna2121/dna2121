@@ -2,7 +2,7 @@
 
 <p><img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" alt="coding" width="200" /></p>
 
-Hey. I'm Denise from Indonesia. I have experience in developing android apps using **Flutter**. Now I'm learning how to develop iOS version apps. I'm also quite interested in data, such as data engineer, data analyst, and business intelligence. Currently, I am attending a data engineering bootcamp to practice my skills and increase my knowledge.
+Hey. I'm Denise from Indonesia. I have experience in developing android apps using **Flutter**. Now I'm learning how to develop iOS version apps. I'm also quite interested in data, such as data engineer, data analyst, and business intelligence. I’ve furthered my understanding in data realm through a data engineering bootcamp and still learning...
 
 ##
 
